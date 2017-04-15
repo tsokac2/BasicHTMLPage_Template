@@ -1,1 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+          <meta name="viewport" content="width=device-width" initial-scale=1.0>
+            <link rel="icon" href="images/logo.ico" type="image/x-icon"/> <!--FaveIcon (OPTIONAL)-->
+              <title>Your Page Name</title>
+                <link href="style.css" rel="stylesheet">
+                  <!-- Import Boostrap from http://getbootstrap.com/ (OPTIONAL)-->
+                    <!-- Import Angular JS from https://angularjs.org/ (OPTIONAL)-->                 
+    </head>
+<bodY>
 
+<h1>Hello World</h1>
+
+... Page Content ...
+
+
+</body>
+</html>
