@@ -9,7 +9,7 @@
                   <!-- Import Boostrap from http://getbootstrap.com/ (OPTIONAL)-->
                     <!-- Import Angular JS from https://angularjs.org/ (OPTIONAL)-->                 
     </head>
-<bodY>
+<body>
 
 <h1>Hello World</h1>
 
