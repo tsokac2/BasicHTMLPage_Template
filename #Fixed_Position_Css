@@ -1,0 +1,8 @@
+div { 
+    width:83.3%;
+    position: fixed;
+    left: 50%;
+    margin-left: -41.65%;
+    top: auto;
+    bottom: 0;
+    }
